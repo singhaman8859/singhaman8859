@@ -18,9 +18,9 @@
 - 🔭 I’m currently working on *MySkill😄*
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
-- 👨‍💻 This is [My Portfolio]((singhaman8859.github.io))
--  📄 This is [My Resume]((https://drive.google.com/file/d/15pSR6ORskPcqGkM58Y38aCre_chbyk_c/view ))
-- 📫 How to reach me: ...*(singhaman9227@gmail.com)*
+- 👨‍💻 This is [My Portfolio]singhaman8859.github.io
+-  📄 This is [My Resume]https://drive.google.com/file/d/15pSR6ORskPcqGkM58Y38aCre_chbyk_c/view
+- 📫 How to reach me: ...*singhaman9227@gmail.com*
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
