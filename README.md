@@ -58,6 +58,8 @@
 <p align="center">
 <a href="https://twitter.com/@singhaman9227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh aman" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-singh-04b595184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naveen Saini" height="30" width="40" /></a>
+<a href="https://fb.com/thakuraman.singh.7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman singh" height="30" width="40" /></a>
+<a href="https://instagram.com/singam_an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman singh" height="30" width="40" /></a>
 </p>
 </div>  
 
