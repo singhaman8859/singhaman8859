@@ -26,7 +26,7 @@
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=singhaman8859&theme=radical" alt="Aman singh" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=singhaman8859&theme=radical" alt="Aman singh1" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=singhaman8859&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
@@ -57,9 +57,9 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/@singhaman9227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh aman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-singh-04b595184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman singh" height="30" width="40" /></a>
-<a href="https://fb.com/thakuraman.singh.7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman singh" height="30" width="40" /></a>
-<a href="https://instagram.com/singam_an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-singh-04b595184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman singh2" height="30" width="40" /></a>
+<a href="https://fb.com/thakuraman.singh.7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman singh3" height="30" width="40" /></a>
+<a href="https://instagram.com/singam_an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman singh4" height="30" width="40" /></a>
 </p>
 </div>  
 
