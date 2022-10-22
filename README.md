@@ -32,7 +32,7 @@
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaman8859&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaman8859&theme=radical&langs_count=8" alt="Aman singh" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=singhaman8859&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
