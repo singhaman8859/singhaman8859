@@ -11,12 +11,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning at **Masai School**
-- 💬 Ask me about **Java**
+
+- 🔭 I’m currently working on Backend and Frontend technologies 😅
+- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://singhaman8859.github.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/15pSR6ORskPcqGkM58Y38aCre_chbyk_c/view)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/aman-singh-04b595184/)
+-  📄 This is [My Resume](https://drive.google.com/file/d/15pSR6ORskPcqGkM58Y38aCre_chbyk_c/view?usp=share_link)
 - 📫 How to reach me: ...**singhaman9227@gmail.com**
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
